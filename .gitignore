@@ -1,0 +1,4 @@
+not_for_git.py
+.idea
+__pycache__
+venv

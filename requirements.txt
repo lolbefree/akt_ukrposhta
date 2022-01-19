@@ -1,0 +1,3 @@
+openpyxl~=3.0.9
+pyodbc~=4.0.32
+Babel~=2.9.1
